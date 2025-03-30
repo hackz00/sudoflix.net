@@ -57,4 +57,4 @@ git push  # Push to YOUR repository
 
 
 ## Contact Me
-**Email:** *[dev@sudo-flix.lol](mailto:dev@sudo-flix.lol)* 
+**Discord:** *h_ac_k_z* 
