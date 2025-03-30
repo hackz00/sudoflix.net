@@ -33,7 +33,7 @@ a selfhost movie-web/sudoflix.
 ## Running Locally
 Type the following commands into your terminal / command line to run Sudo-Flix locally
 ```bash
-git clone https://github.com/sussy-code/smov.git
+git clone https://github.com/HoiBoiPr0xies/sudoflix.net.git
 cd smov
 git pull
 pnpm install
