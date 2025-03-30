@@ -45,7 +45,7 @@ Then you can visit the local instance [here](http://localhost:5173) or, at local
 ## Updating a sudo-flix Instance
 To update a sudo-flix instance you can type the below commands into a terminal at the root of your project.
 ```bash
-git remote add upstream https://github.com/sussy-code/smov.git
+git remote add upstream https://github.com/HoiBoiPr0xies/sudoflix.net.git
 git fetch upstream # Grab the contents of the new remote source
 git checkout <YOUR_MAIN_BRANCH>  # Most likely this would be `origin/main`
 git merge upstream/main
