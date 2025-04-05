@@ -34,7 +34,7 @@ a selfhost movie-web/sudoflix.
 Type the following commands into your terminal / command line to run Sudo-Flix locally
 ```bash
 git clone https://github.com/HoiBoiPr0xies/sudoflix.net.git
-cd smov
+cd sudoflix.net
 git pull
 pnpm install
 pnpm run dev
